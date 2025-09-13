@@ -1,11 +1,11 @@
 {
-  "version": 15,
+  "version": 16,
   "notifications": [
     {
       "id": 1,
       "type": "incidente",
-      "title": "COLISION",
-      "message": "Colision con masculino. Entrada a Claypole.",
+      "title": "MISDARIS",
+      "message": "Misdaris se engancho con otra panchera :O.",
       "duration": 5000,
       "active": true
     }
