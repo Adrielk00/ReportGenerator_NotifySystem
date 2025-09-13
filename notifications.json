@@ -1,13 +1,12 @@
 {
-  "version": 6,
+  "version": 1,
   "notifications": [
     {
       "id": 1,
       "type": "info",
       "title": "INFO",
-      "message": "Sistema SAPSE funcionando correctamente",
-      "duration": 3000,
-      "timestamp": "2024-01-15T10:30:00Z",
+      "message": "Tu mensaje aquí",
+      "duration": 5000,
       "active": true
     }
   ]
