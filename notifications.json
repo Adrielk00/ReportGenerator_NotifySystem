@@ -3,9 +3,9 @@
   "notifications": [
     {
       "id": 1,
-      "type": "alerta",
-      "title": "ALERTA",
-      "message": "Se detecto un robo en estación D.Santillasn y M.Kosteki. Anden:2",
+      "type": "info",
+      "title": "INFO",
+      "message": "Corte de suministro electrico. Ramal afectado: Ezeiza",
       "duration": 5000,
       "active": true
     }
