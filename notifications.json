@@ -1,11 +1,11 @@
 {
-  "version": 9,
+  "version": 10,
   "notifications": [
     {
       "id": 1,
-      "type": "info",
-      "title": "INFO",
-      "message": "Tu mensaje aquí",
+      "type": "alerta",
+      "title": "ALERTA",
+      "message": "Prueba de alerta",
       "duration": 5000,
       "active": true
     }
