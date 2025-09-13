@@ -5,9 +5,18 @@
       "id": 1,
       "type": "info",
       "title": "INFO",
-      "message": "Sistema funcionando correctamente",
+      "message": "Sistema SAPSE funcionando correctamente",
       "duration": 5000,
       "timestamp": "2024-01-15T10:30:00Z",
+      "active": true
+    },
+    {
+      "id": 2,
+      "type": "alerta",
+      "title": "ALERTA",
+      "message": "Mantenimiento programado para mañana",
+      "duration": 10000,
+      "timestamp": "2024-01-15T11:00:00Z",
       "active": true
     }
   ]
