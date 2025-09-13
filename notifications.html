@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SAPSE Notifications</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <script>
+        // Cargar el archivo JSON y mostrarlo
+        fetch('notifications.json')
+            .then(response => response.json())
+            .then(data => {
+                document.body.innerHTML = '<pre>' + JSON.stringify(data, null, 2) + '</pre>';
+            })
+            .catch(error => {
+                document.body.innerHTML = '<h1>Error: ' + error.message + '</h1>';
+            });
+    </script>
+</body>
+</html>
