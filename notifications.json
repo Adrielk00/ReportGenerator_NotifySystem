@@ -1,11 +1,11 @@
 {
-  "version": 13,
+  "version": 14,
   "notifications": [
     {
       "id": 1,
-      "type": "info",
-      "title": "INFO",
-      "message": "Corte de suministro electrico. Ramal afectado: Ezeiza",
+      "type": "alerta",
+      "title": "ALERTA",
+      "message": "Robo detectado. Estacion: Luis Guillon. Anden: 1",
       "duration": 5000,
       "active": true
     }
