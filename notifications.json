@@ -1,11 +1,11 @@
 {
-  "version": 20,
+  "version": 21,
   "notifications": [
     {
       "id": 1,
       "type": "alerta",
       "title": "ALERTA",
-      "message": "Hurto detectado. Estacion: D.Santillan y M.Kosteki. Anden: 2",
+      "message": "TEST",
       "duration": 3000,
       "active": true
     }
