@@ -1,11 +1,11 @@
 {
-  "version": 24,
+  "version": 25,
   "notifications": [
     {
       "id": 1,
       "type": "alerta",
       "title": "ALERTA",
-      "message": "TEST",
+      "message": "Esta es otra prueba de comunicacion bypass",
       "duration": 3000,
       "active": true
     }
