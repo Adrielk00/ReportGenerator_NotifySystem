@@ -2,10 +2,10 @@
   "version": 25,
   "notifications": [
     {
-      "id": 1,
+      "id": 2,
       "type": "alerta",
       "title": "ALERTA",
-      "message": "Esta es otra prueba de comunicacion bypass",
+      "message": "Probando alertas del servicio",
       "duration": 3000,
       "active": true
     }
